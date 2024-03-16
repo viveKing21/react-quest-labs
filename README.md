@@ -14,7 +14,7 @@ This is a basic To-Do list application where you can add items and move them aro
 - Drag items to move them to different states (progress, review, done).
 
 ## Screenshots
-!(https://github.com/viveKing21/react-quest-labs/blob/main/screenshots/1.png)
+![img](https://github.com/viveKing21/react-quest-labs/blob/main/screenshots/1.png)
 
 ## Deployed Link
 https://rococo-gecko-959094.netlify.app/
